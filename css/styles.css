@@ -3034,13 +3034,13 @@ textarea.form-control-lg {
 
 .btn-primary {
   color: #fff;
-  background-color: #64a19d;
-  border-color: #64a19d;
+  background-color: #634937;
+  border-color: #634937;
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #558985;
-  border-color: #50817e;
+  background-color: #a47d5c;
+  border-color: #a47d5c;
 }
 .btn-check:focus + .btn-primary, .btn-primary:focus {
   color: #fff;
@@ -7937,7 +7937,7 @@ textarea.form-control-lg {
 
 .text-black {
   --bs-text-opacity: 1;
-  color: rgba(var(--bs-black-rgb), var(--bs-text-opacity)) !important;
+  color: #ffffff, var(--bs-text-opacity) !important;
 }
 
 .text-white {
@@ -7957,12 +7957,12 @@ textarea.form-control-lg {
 
 .text-black-50 {
   --bs-text-opacity: 1;
-  color: rgba(194, 160, 123, 1) !important;
+  color: rgba(221, 201, 181, 1) !important;
 }
 
 .text-white-50 {
   --bs-text-opacity: 1;
-  color: rgba(255, 255, 255, 0.5) !important;
+  color: rgba(221, 201, 181, 1) !important;
 }
 
 .text-reset {
@@ -11641,7 +11641,7 @@ body {
 
 .signup-section {
   padding: 10rem 0;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.5) 75%, #000 100%), url("../assets/img/bg-signup.jpg");
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 100%, rgba(0, 0, 0, 0.5) 100%, #000 100%), url("../assets/img/desert5.PNG");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
